@@ -1,6 +1,6 @@
 ### Hi there! I'm Manuel Peña 👋
 
-I'm a back end stack developer
+I'm a back end developer
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning about web3
