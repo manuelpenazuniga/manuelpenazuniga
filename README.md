@@ -6,7 +6,7 @@ I'm a Back End developer and a Blockchain developer :octocat:
 - 🌱 I’m currently learning about Zero Knowledge Proofs, Substrate
 - 🧗🏽‍♂️ I’m looking to collaborate on web3 development
 - 💬 Ask me about... whatever you need, I love to help
-- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques ~~ If you talk to me about it, I'll assume you have the next half hour free ~~
+- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques ~~If you talk to me about it, I'll assume you have the next half hour free~~
 - ⚡ Fun fact: ...
 
   
