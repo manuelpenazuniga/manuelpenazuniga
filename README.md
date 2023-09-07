@@ -1,17 +1,34 @@
-### Hi there! I'm Manuel Peña 👋
+### Hi there! I'm Manuel Peña 🙋🏽‍♂️
 
-I'm a Back End developer and a Jr. Blockchain developer
+I'm a Back End developer and a Blockchain developer
 
-- 🔭 I’m currently working on 
+- 👨🏽‍💻 I’m currently working on 
 - 🌱 I’m currently learning about 
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
+- 🧗🏽‍♂️ I’m looking to collaborate on
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- :volcano:
-- 
+
+  :national_park:
+  	:camping:
+  	:rocket:
+  :octocat:
+
+  :llama:
+###
+
+Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)
+NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.
+DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.
+Decentralized Exchanges with TradingView.
+Token Bridge, Block Explorer.
+Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.
+Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.
+  
+
+### Some languages ​​and tools with which I have worked
+
+
 
 ### 🤝🏻 Connect with me
 
