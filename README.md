@@ -15,8 +15,8 @@ I'm a Back End developer and a Jr. Blockchain developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/manuelpz-dev/])
 
-[![Linkedin Badge](https://github.com/manuelpenazuniga/personal-resources/blob/0bcf938a1b09f8051d166c09f80d44b547f03ff6/img/discord.png)]([https://www.linkedin.com/in/manuelpz-dev/])
-
+<a href="https://discord.com/invite/eR92wJZyHJ" target="_blank" rel="noreferrer"> <img src="https://github.com/manuelpenazuniga/personal-resources/blob/0bcf938a1b09f8051d166c09f80d44b547f03ff6/img/discord.png" alt="discord" width="40" height="40"/> </a>
+<a href="https://discord.com/invite/eR92wJZyHJ" target="_blank" rel="noreferrer"> <img src="https://t.me/manuelpenazuniga" alt="telegram" width="40" height="40"/> </a>
 
 
 <!--
