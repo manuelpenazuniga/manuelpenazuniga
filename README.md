@@ -15,17 +15,15 @@ I'm a Back End developer and a Blockchain developer
   :octocat:
 
   :llama:
-###
+## Recently, I have been oriented towards Web3 development, with special interest in_
 
-Any Smart contracts in Solidity (Truffle, Hardhat, Foundry, Remix, Tenderly, etc)
-NFT minting engines/NFT marketplaces, NFT staking, NFT lottery, NFT Games.
-DeFi systems like PancakeSwap, Uniswap, Sushiswap, Tombo, PantherSwap, GooseDeFi, etc.
-Decentralized Exchanges with TradingView.
-Token Bridge, Block Explorer.
-Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.
-Chains: ETH, BSC, Polygon, Harmony, Cronos, Songbird, Aptos, zkSync, etc.
+- Smart Contracts in Solidity (Hardhat, Foundry)
+- Blockchain Frameworks
+- NFT minting 
+- DeFi (PancakeSwap, Uniswap, Sushiswap)
+- Zero Knowledge Proof(ZKP)
+- Chains: ETH, BSC, Polygon, Polkadot
   
-
 ### Some languages ​​and tools with which I have worked
 
 
