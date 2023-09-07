@@ -1,21 +1,21 @@
-### Hi there! I'm Manuel Peña 🙋🏽‍♂️
+## Hi there! I'm Manuel Peña 🙋🏽‍♂️
 
-I'm a Back End developer and a Blockchain developer
+I'm a Back End developer and a Blockchain developer :octocat:
 
 - 👨🏽‍💻 I’m currently working on 
-- 🌱 I’m currently learning about 
-- 🧗🏽‍♂️ I’m looking to collaborate on
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning about Zero Knowledge Proofs, Substrate
+- 🧗🏽‍♂️ I’m looking to collaborate on web3 development
+- 💬 Ask me about... whatever you need, I love to help
+- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques ~~ If you talk to me about it, I'll assume you have the next half hour free ~~
 - ⚡ Fun fact: ...
 
-  :national_park:
-  	:camping:
+  
+  	
   	:rocket:
-  :octocat:
+  
 
   :llama:
-## Recently, I have been oriented towards Web3 development, with special interest in_
+### Recently, I have been oriented towards Web3 development, with special interest in_
 
 - Smart Contracts in Solidity (Hardhat, Foundry)
 - Blockchain Frameworks
