@@ -6,19 +6,13 @@ I'm a Back End developer and a Blockchain developer :octocat:
 - 🌱 I’m currently learning about Zero Knowledge Proofs, Substrate
 - 🧗🏽‍♂️ I’m looking to collaborate on web3 development
 - 💬 Ask me about... whatever you need, I love to help
-- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques ~~If you talk to me about it, I'll assume you have the next half hour free~~
-- ⚡ Fun fact: ...
-
+- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques ~~if you talk to me about it, I'll assume you have the next half hour free~~
+- ⚡ Fun fact: I love alpacas :llama:
   
-  	
-  	:rocket:
-  
-
-  :llama:
 ### Recently, I have been oriented towards Web3 development, with special interest in_
 
-- Smart Contracts in Solidity (Hardhat, Foundry)
-- Blockchain Frameworks
+- Smart Contracts
+- Smart Contract Frameworks
 - NFT minting 
 - DeFi (PancakeSwap, Uniswap, Sushiswap)
 - Zero Knowledge Proof(ZKP)
