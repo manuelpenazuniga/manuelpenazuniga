@@ -9,14 +9,16 @@ I'm a Back End developer and a Jr. Blockchain developer
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...
+- :volcano:
+- 
 
 ### 🤝🏻 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/manuelpz-dev/])
 
 <a href="https://discord.com/invite/eR92wJZyHJ" target="_blank" rel="noreferrer"> <img src="https://github.com/manuelpenazuniga/personal-resources/blob/0bcf938a1b09f8051d166c09f80d44b547f03ff6/img/discord.png" alt="discord" width="40" height="40"/> </a>
-<a href="https://discord.com/invite/eR92wJZyHJ" target="_blank" rel="noreferrer"> <img src="https://t.me/manuelpenazuniga" alt="telegram" width="40" height="40"/> </a>
+<a href="https://t.me/manuelpenazuniga" target="_blank" rel="noreferrer"> <img src="https://github.com/manuelpenazuniga/personal-resources/blob/ca4e78131b31490c5fc9742309dfb834c1e8f2ea/img/telegram.png" width="40" height="40"/> </a>
 
 
 <!--
