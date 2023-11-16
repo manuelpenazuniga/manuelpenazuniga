@@ -22,20 +22,20 @@ I'm a Back End developer and a Blockchain developer :octocat:
 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/solidity/solidity-original.svg" alt="" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/polygon/polygon-original.svg" alt="" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="phyton" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="phyton" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="" width="40" height="40"/> 
-<img src="" alt="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/arduino/arduino-original.svg" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/arduino/arduino-original.svg" alt="" width="40" height="40"/> 
 
 
 ### 🤝🏻 Connect with me
