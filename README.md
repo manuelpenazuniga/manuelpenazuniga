@@ -45,7 +45,7 @@ alt="" width="40" height="40"/> </a>
 ### 🤝🏻 Connect with me
 
 <a href="https://www.linkedin.com/in/manuelpz-dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> </a>
-<p></p>
+&nbsp
 <a href="https://discord.com/invite/eR92wJZyHJ" target="_blank" rel="noreferrer"><img src="https://github.com/manuelpenazuniga/personal-resources/blob/0bcf938a1b09f8051d166c09f80d44b547f03ff6/img/discord.png" alt="discord" width="40" height="40"/> </a>
 <p></p>
 <a href="https://t.me/manuelpenazuniga" target="_blank" rel="noreferrer"><img src="https://github.com/manuelpenazuniga/personal-resources/blob/ca4e78131b31490c5fc9742309dfb834c1e8f2ea/img/telegram.png" width="40" height="40"/> </a>
