@@ -22,19 +22,14 @@ I'm a Back End developer and a Blockchain developer :octocat:
 
 <a href="" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg"
 alt="phyton" width="40" height="40"/> </a>
-
 <a href="" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/r/r-original.svg"
 alt="r" width="40" height="40"/> </a>
-
 <a href="" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg"
 alt="rust" width="40" height="40"/> </a>
-
 <a href="" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg"
 alt="go" width="40" height="40"/> </a>
-
 <a href="" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg"
 alt="java" width="40" height="40"/> </a>
-
 <a href="" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg"
 alt="typescript" width="40" height="40"/> </a>
 
