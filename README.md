@@ -6,7 +6,7 @@ I'm a Back End developer and a Blockchain developer :octocat:
 - 🌱 I’m currently learning about Zero Knowledge Proofs, Substrate
 - 🧗🏽‍♂️ I’m looking to collaborate on web3 development
 - 💬 Ask me about... whatever you need, I love to help
-- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques ~~if you talk to me about it, I'll assume you have the next half hour free~~
+- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques, Indoor Tropical Plants :seeding:  ~~if you talk to me about it, I'll assume you have the next half hour free~~
 - ⚡ Fun fact: I love alpacas :llama:
   
 ### Recently, I have been oriented towards Web3 development, with special interest in_
@@ -15,12 +15,13 @@ I'm a Back End developer and a Blockchain developer :octocat:
 - Smart Contract Frameworks
 - NFT minting 
 - DeFi (PancakeSwap, Uniswap, Sushiswap)
-- Zero Knowledge Proof(ZKP)
-- Chains: ETH, BSC, Polygon, Polkadot
+- Zero Knowledge Proof(ZKP) / zkEVM / zkSync
+- Chains: ETH, BSC, Polygon, Polkadot, Solana
   
 ### Some languages ​​and tools with which I have worked
 
-
+<a href="" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg"
+alt="linkedIn" width="40" height="40"/> </a>
 
 ### 🤝🏻 Connect with me
 
