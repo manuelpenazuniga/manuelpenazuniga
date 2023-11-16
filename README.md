@@ -2,7 +2,7 @@
 
 I'm a Back End developer and a Blockchain developer :octocat:
 
-- 👨🏽‍💻 I’m currently working on 
+- 👨🏽‍💻 I’m currently working on web3
 - 🌱 I’m currently learning about Zero Knowledge Proofs, Substrate
 - 🧗🏽‍♂️ I’m looking to collaborate on web3 development
 - 💬 Ask me about... whatever you need, I love to help
