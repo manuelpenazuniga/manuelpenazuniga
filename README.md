@@ -1,46 +1,37 @@
-## Hi there! I'm Manuel Peña 🙋🏽‍♂️
+<img src="assets/terminal.svg" width="100%" alt="ClawCrate denies a postinstall script access to ~/.aws/credentials and leaves a signed audit trail; PennyPrompt pauses a runaway agent loop and returns HTTP 402 at the daily cap.">
 
-I'm a Back End developer and a Blockchain developer :octocat:
+I'm Manuel. I write Rust and build AI systems where the model proposes and something deterministic decides: a compiler, a test suite, the kernel, a smart contract. From Chile 🇨🇱.
 
-- 👨🏽‍💻 I’m currently working on web3
-- 🌱 I’m currently learning about Zero Knowledge Proofs, Substrate
-- 🧗🏽‍♂️ I’m looking to collaborate on web3 development
-- 💬 Ask me about... whatever you need, I love to help
-- :camping: My Hobbies: Trekking :national_park:, Coffee preparation techniques, Indoor Tropical Plants :seeding:  ~~if you talk to me about it, I'll assume you have the next half hour free~~
-- ⚡ Fun fact: I love alpacas :llama:
-  
-### Recently, I have been oriented towards Web3 development, with special interest in_
+### 🦀 Making agents safe to run
 
-- Smart Contracts
-- Smart Contract Frameworks
-- NFT minting 
-- DeFi (PancakeSwap, Uniswap, Sushiswap)
-- Zero Knowledge Proof(ZKP) / zkEVM / zkSync
-- Chains: ETH, BSC, Polygon, Polkadot, Solana
-  
-### Some languages ​​and tools with which I have worked
+- 📦 **[ClawCrate](https://github.com/manuelpenazuniga/ClawCrate)**: sandbox for agent commands and MCP servers. Landlock, seccomp, Seatbelt. No Docker, no root, receipts included.
+- 🪙 **[PennyPrompt](https://github.com/manuelpenazuniga/PennyPrompt)**: your agent is a loop with a credit card. This is the hard stop.
+- 🐕 **[CerberusGuard](https://github.com/manuelpenazuniga/CerberusGuard)**: three heads (prompts, money, syscalls) and one audit trail.
 
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/solidity/solidity-original.svg" alt="" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/polygon/polygon-original.svg" alt="" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="phyton" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/r/r-original.svg" alt="r" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/arduino/arduino-original.svg" alt="" width="40" height="40"/> 
+### 🧠 LLMs on a short leash
 
+- 🌀 **[HIPnosis](https://github.com/manuelpenazuniga/HIPnosis)**: ports CUDA to ROCm. It doesn't get to grade its own homework; an MI300X does.
+- 🩺 **[Clinibrium](https://github.com/manuelpenazuniga/Clinibrium)**: vertigo triage. Claude can raise urgency, never lower it. Built during *Built with Claude: Life Sciences*.
+- 🔌 **[vertigoDx](https://github.com/manuelpenazuniga/vertigoDx)**: same problem, fully offline on Gemma 4. Patient data never leaves the laptop.
+- ⚒️ **[LaForja](https://github.com/manuelpenazuniga/LaForja)**: students write exam problems, and LLMs try to break them.
 
-### 🤝🏻 Connect with me
+### ⛓️ Contracts that say no
 
-<a href="https://www.linkedin.com/in/manuelpz-dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="40" height="40"/> 
-<a href="https://discord.com/invite/eR92wJZyHJ" target="_blank" rel="noreferrer"><img src="https://github.com/manuelpenazuniga/personal-resources/blob/0bcf938a1b09f8051d166c09f80d44b547f03ff6/img/discord.png" alt="discord" width="40" height="40"/> 
-<a href="https://t.me/manuelpenazuniga" target="_blank" rel="noreferrer"><img src="https://github.com/manuelpenazuniga/personal-resources/blob/ca4e78131b31490c5fc9742309dfb834c1e8f2ea/img/telegram.png" width="40" height="40"/> 
+- 🌾 **[Ohu](https://github.com/manuelpenazuniga/ohu)**: an LLM swarm runs the co-op; a Casper contract holds the money.
+- 🗣️ **[VeritasVoice](https://github.com/manuelpenazuniga/veritasvoice)**: anonymous feedback, with Groth16 verified inside a Soroban contract.
+- 🎬 **[HollyWars](https://github.com/manuelpenazuniga/HollyWars-SolanaZK-edition)**: ZK voting on Solana. Your indentation style decides your vote weight.
+- 🛰️ **[chainSentinel](https://github.com/manuelpenazuniga/chainSentinel)**: watches Polkadot DeFi and pulls the funds out before the exploit lands.
 
+<img src="assets/andes.svg" width="100%" alt="My contributions over the last year, drawn as the Andes, with an alpaca walking the ridge. Redrawn daily by a GitHub Action.">
 
-<!--
-**manuelpenazuniga/manuelpenazuniga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Side projects
 
-Here are some ideas to get you started:
+- 📐 **[EntrenaTuPAES](https://entrenatupaes.cl/)**: a university-entrance exam prep academy I co-founded. I wrote its LMS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐾 Volunteer
+
+- 🐶 **[Fundación Rescate de Mascotas](https://fundacionrescatedemascotas.cl/en-memoria)**: I built the foundation's donation platform. A gift in someone's memory funds a specific rescued dog, and you can follow it until it's adopted.
+
+Medium-format film, pour-over, trekking. Alpacas, always.
+
+<samp>[linkedin](https://www.linkedin.com/in/manuelpz-dev/) · [telegram](https://t.me/manuelpenazuniga)</samp>
