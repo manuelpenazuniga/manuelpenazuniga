@@ -32,6 +32,8 @@ I'm Manuel. I write Rust and build AI systems where the model proposes and somet
 
 - 🐶 **[Fundación Rescate de Mascotas](https://fundacionrescatedemascotas.cl/en-memoria)**: I built the foundation's donation platform. A gift in someone's memory funds a specific rescued dog, and you can follow it until it's adopted.
 
-Medium-format film, pour-over, trekking. Alpacas, always.
+### 🏔️ Away from the keyboard
+
+📷 shooting medium-format film &nbsp;·&nbsp; ☕ dialing in pour-over &nbsp;·&nbsp; 🥾 trekking the Andes &nbsp;·&nbsp; 🦙 alpacas, always
 
 <samp>[linkedin](https://www.linkedin.com/in/manuelpz-dev/) · [telegram](https://t.me/manuelpenazuniga)</samp>
