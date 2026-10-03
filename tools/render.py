@@ -3,6 +3,8 @@
 
   assets/terminal.svg  a replayed shell session (static content, animated with CSS)
   assets/andes.svg     the last year of contributions drawn as a mountain range
+  assets/strata.svg,
+  assets/topo.svg      drawn from data/activity.json by tools/charts.py
 
 Needs GITHUB_TOKEN (or GH_TOKEN) for the GraphQL contributions query.
 Runs daily from .github/workflows/andes.yml.
@@ -439,3 +441,6 @@ if __name__ == "__main__":
     ASSETS.mkdir(exist_ok=True)
     render_terminal()
     render_andes(*fetch_weeks())
+    if (ROOT / "data" / "activity.json").exists():  # refreshed locally by tools/collect.py
+        import charts
+        charts.render_all(ROOT)

@@ -36,4 +36,10 @@ I'm Manuel. I write Rust and build AI systems where the model proposes and somet
 
 📷 shooting medium-format film &nbsp;·&nbsp; ☕ dialing in pour-over &nbsp;·&nbsp; 🥾 trekking the Andes &nbsp;·&nbsp; 🦙 alpacas, always
 
+### 🪨 Field notes
+
+<img src="assets/strata.svg" width="100%" alt="Streamgraph of my commits per month by language, drawn as rock strata: Rust, TypeScript and Python dominate 2026, with an 18-month gap in the record marked as an unconformity.">
+
+<img src="assets/topo.svg" width="100%" alt="Contour map of when I commit by weekday and hour, Santiago time: the summit is Friday late morning, and the early hours of the morning are nearly empty.">
+
 <samp>[linkedin](https://www.linkedin.com/in/manuelpz-dev/) · [telegram](https://t.me/manuelpenazuniga)</samp>
