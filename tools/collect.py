@@ -69,7 +69,8 @@ def main():
             last = max(last or t, t)
             strata[f"{t:%Y-%m},{lang}"] += 1
             n += 1
-        print(f"{n:5d}  {lang:12s} {name}", file=sys.stderr)
+        if not os.environ.get("CI"):  # Actions logs are public; private repo names stay out of them
+            print(f"{n:5d}  {lang:12s} {name}", file=sys.stderr)
 
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps({

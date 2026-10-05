@@ -11,13 +11,18 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
+    env:
+      # space-separated, read-only fine-grained tokens, one per account; optional
+      GH_TOKENS: ${{ secrets.ACTIVITY_TOKENS }}
     steps:
       - uses: actions/checkout@v4
+      - if: env.GH_TOKENS != ''
+        run: python3 tools/collect.py
       - run: python3 tools/render.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
-          git add assets
+          git add assets data
           git diff --cached --quiet && exit 0
           git -c user.name="github-actions[bot]" -c user.email="41898333+github-actions[bot]@users.noreply.github.com" \
             commit -m "redraw the andes"
