@@ -86,7 +86,8 @@ def render_strata(act, path):
     for k, v in act["strata"].items():
         mo, lang = k.split(",")
         per.setdefault(mo, [0] * n)
-        per[mo][next(i for i, (_, _, langs) in enumerate(LAYERS) if lang in langs)] += v
+        # a language not listed (a new repo in Go, Shell...) settles into "web & other"
+        per[mo][next((i for i, (_, _, langs) in enumerate(LAYERS) if lang in langs), 0)] += v
     first = min(per)
     gen = date.fromisoformat(act["generated"])
     months = [f"{y}-{m:02d}" for y, m in months_between((int(first[:4]), int(first[5:])), (gen.year, gen.month))]
